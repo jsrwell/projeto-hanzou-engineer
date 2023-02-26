@@ -4,7 +4,7 @@ Este projeto voltado ao front-end tem como objetivo apresentar um simples blog c
 
 ## Acesso à Pagina
 
-- Link: 
+- Link: https://jsrwell.github.io/projeto-hanzou-engineer/
 
 ## Tecnologias
 
